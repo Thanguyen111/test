@@ -1,7 +1,6 @@
 
 def sum(a,b):
-  c= a+b
-  return c
+  return a+b
 
 def cal(a,b)
   return a*b
